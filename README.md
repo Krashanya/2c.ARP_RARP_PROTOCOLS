@@ -46,8 +46,8 @@ while True:
 
 <img width="636" height="183" alt="image" src="https://github.com/user-attachments/assets/8bfd1e35-1859-4800-9958-ecce2ed01ebb" />
 <br>
-### client:
-
+### Client:
+<br>
 <img width="640" height="207" alt="image" src="https://github.com/user-attachments/assets/98986f33-ee5e-4e18-8bdc-e7add7bc0670" />
 
 
@@ -91,7 +91,7 @@ while True:
 <img width="633" height="200" alt="image" src="https://github.com/user-attachments/assets/d7fa0b72-efb9-4df1-8fdd-c745bd814167" />
 <br>
 ### client:
-
+<br>
 <img width="638" height="232" alt="image" src="https://github.com/user-attachments/assets/791bef39-f7e9-4ae0-b6cf-a59ec5fc8c86" />
 <br>
 ## RESULT
